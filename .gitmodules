@@ -17,3 +17,6 @@
 	path = meta-raspberrypi
 	url = git://git.yoctoproject.org/meta-raspberrypi
 	branch = rocko
+[submodule "genivi-dev-platform"]
+	path = genivi-dev-platform
+	url = https://github.com/GENIVI/genivi-dev-platform.git
